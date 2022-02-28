@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The qualifications of persons, declared capable by the Rump, Parliament to elect, or be elected, Members to supply their House.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91614</idno>
+            <idno type="STC">Wing Q37</idno>
+            <idno type="STC">Thomason E1015_6</idno>
+            <idno type="STC">ESTC R203349</idno>
+            <idno type="EEBO-CITATION">99863323</idno>
+            <idno type="PROQUEST">99863323</idno>
+            <idno type="VID">115515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115515)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The qualifications of persons, declared capable by the Rump, Parliament to elect, or be elected, Members to supply their House.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "1659 Feb: 3"; the imprint year has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115515:1"/>
+            <pb facs="tcp:115515:1" rendition="simple:additions"/>
+            <p>The Qualifications of Perſons, declared Capa<g ref="char:EOLhyphen"/>ble by the Rump, Parliament to Elect, or be Elected, Mem<g ref="char:EOLhyphen"/>bers to ſupply their Houſe.</p>
+            <p>Printed in the year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115515:2"/>
+            <pb n="3" facs="tcp:115515:2"/>
+            <head>THE QUALIFICATIONS, Of Perſons declar'd, capable to E<g ref="char:EOLhyphen"/>lect, or be Elected; as Mem<g ref="char:EOLhyphen"/>bers to ſupply the preſent houſe of <hi>PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Repreſentative of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> having for many years employ'd their conſtant en<g ref="char:EOLhyphen"/>deavour, to impoſe Freedome and Liberty on the Three Nations; (notwithſtanding their obſtinate re<g ref="char:EOLhyphen"/>luctancy, and oppoſition thereunto, who would take upon them againſt all right and reaſon, to be their own Judges) and being now after two ſcandalous Ejectments, and as many ſig<g ref="char:EOLhyphen"/>nall Reſtorations, happily return'd to diſcharge the re<g ref="char:EOLhyphen"/>maining fragment of their Truſt; do find, (to their un<g ref="char:EOLhyphen"/>ſpeakable grief,) the Red-coats, (in whom they alwayes loyally acquieſed) failing of their pay, to faile likewiſe of their Truſt, and ſeduced by evill Counſell, to adhere unto the Common enemy that is to ſay; The ſaid three Nations, in complying with their Deſires and Ad<g ref="char:EOLhyphen"/>dreſſes, which are to have this preſent Repreſentative diſſolv'd, and a Free Parliament, ſpeedily Conven'd,
+<pb n="4" facs="tcp:115515:3"/>(which they tremble to think upon) or the Secluded, Members re-admitted, (which they equally abhomi<g ref="char:EOLhyphen"/>nate) or the preſent Houſe ſuppli'd with new Electi<g ref="char:EOLhyphen"/>on, which their bowels ſigh to reflect on: Neverthe<g ref="char:EOLhyphen"/>leſſe, they have after ſerious and mature deliberation re<g ref="char:EOLhyphen"/>ſolv'd upon he leſt, (that is to ſay,) to fill up their Houſe, as being (though of dangerous conſequence) leſſe horrible, and dreadfull to themſelves, then any other way. And to the end, the Perſons to be Elected, may be of as near a Condition as may be, to match the preſent Members, and ſo poſſibly, go Hand in Hand with them, in carrying on the ſaid Work; they have a<g ref="char:EOLhyphen"/>greed upon theſe following Qualifications, and do En<g ref="char:EOLhyphen"/>act, and be it here by Enacted, that no Perſon, whatſo<g ref="char:EOLhyphen"/>ever, preſume to Elect, or be Elected, (under pain of Confiſcation of his Eſtate, and ſale of his Perſon,) that is not allow'd capable thereof, by the ſaid Qualificati<g ref="char:EOLhyphen"/>ons, in which they do profeſſe before the ſearcher of all hearts, that they have freely diſcover the naked truth of all their intentions, as if their Breaſts were to be o<g ref="char:EOLhyphen"/>pened, and their Hearts taken out, (which God de<g ref="char:EOLhyphen"/>fend) it would manifeſtly appear to all the World.</p>
+            <div n="1" type="qualification">
+               <head>
+                  <hi>Qual.</hi> I.</head>
+               <p>Whoſoever hath at any time been known to take the Name of God in vain, that is, to ſwear, or forſwear him<g ref="char:EOLhyphen"/>ſelfe for nothing, without advantage to that Publique, or his owne particular concernments, but meerly out of raſh and needleſſe prophanation; is hereby declar'd, utterly incapable to Elect, or be Elected, as a Member to ſerve in this preſent Parliament. For Oaths have been found by experience, to be wonderfull expedients in State affiaires; and ought not to be made or broken, but with great and ſerious Conſideration.</p>
+            </div>
+            <div n="2" type="qualification">
+               <pb n="5" facs="tcp:115515:3"/>
+               <head>
+                  <hi>Qual.</hi> II.</head>
+               <p>Whoſoever is noted to be a Sabbath breaker, or Pro<g ref="char:EOLhyphen"/>phaner of the Lords day, is declar'd, incapable to Elect, or be Elected, &amp;c. For he that cannot one day in ſeven obſerve, (at leaſt in ſhew) on Commandement in ten, that coſts nothing the keeping, nor gains any thing by being broken, is not fitly qualifi'd to ſit in this Parlia<g ref="char:EOLhyphen"/>ment; For all ſuch ſins, as have no immediate relation to the ſervice of this Houſe, muſt be openly deteſted, that there may be the leſſe notice taken of ſuch as are for the advantage and intereſſe thereof.</p>
+            </div>
+            <div n="3" type="qualification">
+               <head>
+                  <hi>Qual.</hi> III.</head>
+               <p>Whoſoever hath at any time, within the ſpace of theſe twenty years laſt paſt, been obſerv'd to be diſguiſ'd in drink, unleſſe he can bring teſtimony that it is his uſuall Cuſtom to drink himſelfe drunk in private alone, to avoid giving evill example, or in ſecret and well af<g ref="char:EOLhyphen"/>fected Company, without healths, is declar'd incapable to Elect, or be Elected; Provided that Surfet and Glut<g ref="char:EOLhyphen"/>tony be not included within this incapacity, nor ſuch other alterations, as may fall upon the Spirit of a man, at Thankſgiving Dinners.</p>
+            </div>
+            <div n="4" type="qualification">
+               <head>
+                  <hi>Qual.</hi> IV.</head>
+               <p>Whoſoever doth live in Adultery, or Fornication, or hath at any time had Carnall Copulation with the Wife, Siſters, or Daughter, of any Member of Parlia<g ref="char:EOLhyphen"/>ment, now ſitting without the Conſent, or Satisfaction of the ſaid Member; Or hath been ſeen in the day time, to reſort to houſes of evill fame, or frequent the Company of Common women, is declar'd, incapable to
+<pb n="6" facs="tcp:115515:4"/>Elect, or be Elected, &amp;c. Provided that this do not ex<g ref="char:EOLhyphen"/>tend to any Perſon, that hath kept a Concubine or Con<g ref="char:EOLhyphen"/>cubines ſo long, that now there is no notice taken there<g ref="char:EOLhyphen"/>of, or to ſuch as by the loſſe of their Eyes or Noſes; Botches in their Skins, or aches in their Bones, can bring proof of their Repentance, and Reſentment of their former Lives: as it hath been allow'd in the Caſes of <hi>William Lord Viſcont Monſon, Sir Henry Martin, Mr. Secretary Scot, William Heveningham,</hi>
+                  <abbr>Eſq</abbr> and o<g ref="char:EOLhyphen"/>thers.</p>
+            </div>
+            <div n="5" type="qualification">
+               <head>
+                  <hi>Qual.</hi> V.</head>
+               <p>Whoſoever hath ſuffer'd for his Conſcience, either by Impriſonment, Sequeſtration, or ſale of his Eſtate, or hath refuſ'd to take any Oath, impoſed by this Parlia<g ref="char:EOLhyphen"/>ment; Howſoever, contradictory to any former Oath, by him taken. Or hath gain'd nothing by the Ruine of his Native Country, nor is liable to ſuffer by any Revo<g ref="char:EOLhyphen"/>lution, that may tend to the Generall Settlement there<g ref="char:EOLhyphen"/>of, but being unbiaſ'd by any party, is at liberty to pro<g ref="char:EOLhyphen"/>mote the proper and naturall intereſts of the Nation in Generall. Or hath ſubſcrib'd any Petition or Remon<g ref="char:EOLhyphen"/>ſtrance for a Free Parliament, or for the Re-admiſſion of the Secluded Members, to their Right of ſitting; Or for a time to be prefix't, to determine the ſitting of this preſent Parliament, or any thing elſe againſt the ſenſe of this Houſe, in order to the ſettlement of the Nation. Or hath declar'd againſt Taxes, Exciſe, Free<g ref="char:EOLhyphen"/>quarter, Plunder, Arbitrary Government, the Perpe<g ref="char:EOLhyphen"/>tuation, and Supremacy of the Preſent Parliament, Continuation of the diſtractions, decay of Trade, and ſlavery of the Engliſh Nation. Any, and every ſuch Perſon, is hereby declar'd, not onely incapable to Elect, or be Elected, a Member of this preſent, or any future Parliament; or of bearing any Office, or place of Truſt In this Common-wealth, but ſhall ſuffer ſuch further puniſhment, either by Sequeſtration, or ſale of his E<g ref="char:EOLhyphen"/>ſtate
+<pb n="7" facs="tcp:115515:4"/>or Perſon, as to the wiſdom of this Houſe ſhall ſeem expedient.</p>
+            </div>
+            <div n="6" type="qualification">
+               <head>
+                  <hi>Qual.</hi> VI.</head>
+               <p>Whoſoever hath been engag'd in the late Rebellions of Sir <hi>George Booth</hi> Barronet, or <hi>Lambert Symnell</hi>
+                  <abbr>Eſq</abbr> or any way aiding, or aſſiſting thereunto; Or hath ſate or acted, in, or under the late Committee of Safety, or had any hand in the late diſturbances of this preſent Parliament, is, (beſide ſuch other puniſhment as this Houſe ſhall judge fitting) declar'd incapable, to Elect, or be Elected, to ſerve in this or any future Parliament; Provided that this ſhall net extend to ſuch Members of this Houſe, as were ingag'd in the ſaid Inſurrections. For if all ſuch ſhould be impeached before the Houſe be full, there would not be a Quorum left to make it a Par<g ref="char:EOLhyphen"/>liament.</p>
+            </div>
+            <div n="7" type="qualification">
+               <head>
+                  <hi>Qual.</hi> VII.</head>
+               <p>Whoſoever hath cald Charls <hi>Stewart</hi> King, or drunk his Health, or pray'd God to reſtore Him to his Right, and every honeſt man to his owne, or uſ'd any ſuch ma<g ref="char:EOLhyphen"/>lignant and treaſonable expreſſions; Or hath call'd the preſent Parliament, <hi>Rump, Arſe, Bum, Taile,</hi> or <hi>Breech:</hi> Or hath rejoyced at the interruptions thereof, or wiſh'd it at an end. Or hath <hi>Sued, Arreſted, Revil'd, Beaten, Kickt, Cookolded, Trepand,</hi> or refuſ'd to Truſt any of the Members thereof, during the intervalls; Or hath any Action of Debt, or Bill of Complaint againſt any Mem<g ref="char:EOLhyphen"/>ber now ſitting: and doth refuſe to give the ſaid Mem<g ref="char:EOLhyphen"/>ber a full diſcharge, and generall releaſe; any, and every ſuch perſon is declar'd utterly, in capable to Elect, or be Elected, to ſerve in this preſent, or any future Par<g ref="char:EOLhyphen"/>liament, or of bearing any Office, or place of Truſt in this Common-wealth.</p>
+            </div>
+            <div n="8" type="qualification">
+               <pb n="8" facs="tcp:115515:5"/>
+               <head>
+                  <hi>Qual.</hi> VIII.</head>
+               <p>No man ſhall be judg'd, rightly qualify'd, nor ad<g ref="char:EOLhyphen"/>mitted to fit in this Houſe as a Member thereof, that doth not firſt acknowledge this Parliament to be a Free Parliament, unfounded by the Laws of God or Man; that all things are expoſ'd to the will of the Members thereof, who may freely diſpoſe of the Eſtates, Perſons, Conſciences, and Lives of men as they pleaſe, and after<g ref="char:EOLhyphen"/>ward make it lawfull. That this Houſe hath a greater power in Civill affaires then the Turk, and in Spirituall then the Pope, for it is Head of Churches, not yet in being, and judge of more Faith, then all the Generall Councells ever were. That it can damne, and ſave, and bind, and looſe in this World, in diſpight of the Next; make what it pleaſes, Holy or Profane, True or Falſe, Scripture or Apocrypha, and no man dares to queſtion its infallibility: and that every Member thereof, can Vote and Swear Contradictions, and make others do ſo too, or pay them for it.</p>
+            </div>
+            <div n="9" type="qualification">
+               <head>
+                  <hi>Qual.</hi> IX.</head>
+               <p>No man ſhall be judg'd, rightly qualify'd, nor ad<g ref="char:EOLhyphen"/>mitted to ſit in this Houſe, untill he hath engag'd to uſe his Chriſtian endeavour, to carry on a thorough Refor<g ref="char:EOLhyphen"/>mation of the <hi>Calendar,</hi> that the Engliſh Nation may no more uſe the Julian account, nor reckon by the year of our Lord, but by the Roman Indiction, according to the cuſtom of the Chriſtians in<g ref="char:punc">▪</g> Ancient times; that is, reckon the year by their Taxes, and not their Taxes by the year: A Reformation, which this Parliament made ſome progreſſe in before their late interruption, when they drew the whole year, within the compaſſe of four months, and do intend by Gods help, to bring to per<g ref="char:EOLhyphen"/>fection with all Convenient expedition.</p>
+            </div>
+            <div n="10" type="qualification">
+               <pb n="9" facs="tcp:115515:5" rendition="simple:additions"/>
+               <head>
+                  <hi>Qual.</hi> X.</head>
+               <p>Whoſoever makes profeſſion of Godlineſſe and holi<g ref="char:EOLhyphen"/>neſſe of life, although he be commonly reputed to be both a Fool, and a Knave, a notorious Villain, and Dia<g ref="char:EOLhyphen"/>bolical Hypocrite, ſhall nevertheleſſe be allowed (if du<g ref="char:EOLhyphen"/>ly elected) to be rightly qualifyed to ſit in this preſent Parliament. Provided that this capacity do not extend to <hi>Charles Fleetwood</hi>
+                  <abbr>Eſq</abbr>
+                  <hi>John Diſbrow</hi> Yeoman, and Sr. <hi>Henry Vaine</hi> Knight, lately Ejected, <hi>John Hewſon</hi> Cordwayner, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the City of <hi>London.</hi>
+               </p>
+               <p>Ordered that Dr. <hi>John Owen,</hi> Mr. <hi>Hugh Peters,</hi> and Major <hi>John Wildman,</hi> be included within this Qualify<g ref="char:EOLhyphen"/>cation notwithſtanding they are in Orders,</p>
+            </div>
+            <div n="11" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XI.</head>
+               <p>Whoſoever hath had a hand in the late Kings blood, or Petitioned to bring him to tryal, or hath demoliſhed his Houſes, cut down his Woods, or pulled down Churches to ſell the materials. Or can bring proofe that he hath been of one or more High Courts of Juſtice, at one or more Committees of Sale or Sequeſtration, of the Committee for Propagation of the Goſpell. Or hath been a Commiſſioner of the Exciſe, a Sequeſtrator, Trea<g ref="char:EOLhyphen"/>ſurer or Truſtee, for the ſail of Kings Lands or Goods, or Biſhops, and Deanes and Chapters, and Delinquents Lands. And hath gotten a conſiderable eſtate by buying or ſelling, the aforeſaid Lands; And can make it appear that his head is forfieted to the Tower on <hi>London</hi>-Bridge, and the 4 Quarters of his Outward man to 4 reſpective Gates of the City, if any Revolution ſhould happen to the Generall ſettlement of the Nation. Any and every ſuch perſon is declared rightly Quallifyed to ſit in this
+<pb n="10" facs="tcp:115515:6"/>preſent Parliament, and ſhall be admitted without ta<g ref="char:EOLhyphen"/>king any Oath at all: for a mans skin is tenderer then his conſcience, and this world much nearer to him then the next.</p>
+            </div>
+            <div n="12" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XII.</head>
+               <p>Whoſoever can bring proofe by the loſſe of his eares or otherwiſe, that hath ſtood the Pillory for Per<g ref="char:EOLhyphen"/>jury, Forgery, Faction, or ſedition to hinder the govern<g ref="char:EOLhyphen"/>ment of the late King. Or that he hath been burnt in the hand, forehead, or ſhoulder, thrown over the Bar, ſet in the ſtocks, Carted or whipt at the tail of a cart, for any thing by him done, ſaid, or written againſt the ſaid Government before the year 1642. ſhall be approved as moſt fitly qualified to ſit in this preſent Parliament. Provided that this ſhall not extend to <hi>William Prin</hi> of <hi>Swanſwick</hi>
+                  <abbr>Eſq</abbr>
+                  <hi>Utter Bencher</hi> of <hi>Lincolns-Inne;</hi> nor to Major <hi>William Poe.</hi>
+               </p>
+            </div>
+            <div n="13" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XIII.</head>
+               <p>Whoſoever is Son, Brother or Nephew, or can prove himſelfe to be the naturall Son or Baſtard of any Mem<g ref="char:EOLhyphen"/>ber, or of the Mother, Siſter, or Wife of any Member of this Parliament now ſitting, or any Member thereof deceaſed that ſate ſince the year 1648, and will engage to conform to the Sence of this Houſe according to the example of the ſaid Member unto whom he hath relati<g ref="char:EOLhyphen"/>on, is hereby declared rightly qualifyed, either to elect or be elected a Member of this preſent Parliament.</p>
+            </div>
+            <div n="14" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XIV.</head>
+               <p>Whoſoever can bring proof, that he is a man of a pub<g ref="char:EOLhyphen"/>lique Spirit, fit for all times and occaſions, of approved
+<pb n="11" facs="tcp:115515:6"/>liberty of Conſcience, and of courage and reſolution to encounter any danger that extends to ſoul or body, (if need be) rather then live out of Authority and Command, or under the Laws of God or Man. That he hath proper ſuit for the ſervice of the preſent Go<g ref="char:EOLhyphen"/>vernment, and can do the ſame things by the Spirit of God, which other men are drawn to by the temptations of the Devil. That he can break Oaths by providence, and forſwear himſelf to the glory of God, deal falſly and treacherouſly with men out of Conſcience, and verily believeth it to be a greater ſin to name Faith then to break it. That Religion is his trade, and God himſelfe his occupation. That he can hold forth any uſefull, though notorious untruth with convenient ob<g ref="char:EOLhyphen"/>ſtinacy, untill he belives himſelf, and ſo renders it no ſin. That he hath an excellent ſpirit to find out wayes of raiſing mony, and will deſerve his ſhare both of the ſubſtance and curſes of the People. Any and every ſuch Perſon is declared to be moſt aptly qualifyed to elect or be elected Member of this preſent Parliament. Provided that this cappacity do not extend to <hi>Bullſtard. Whitlock</hi>
+                  <abbr>Eſq</abbr>
+                  <hi>Richard Salway</hi> Grocer, lately ejected this Houſe.</p>
+            </div>
+            <div n="15" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XV.</head>
+               <p>Whoſoever can produce teſtimony, that he hath taken the late Oath of Allegiance and Supremacy, the Pro<g ref="char:EOLhyphen"/>teſtation, the Solemn League and Covenant, the En<g ref="char:EOLhyphen"/>gagement to be true and faithfull to the preſent Go<g ref="char:EOLhyphen"/>vernment, without King or Houſe of Lords. That he hath ſubſcribed the addreſſes to live and dye with <hi>Oliver</hi> and <hi>Richard Cromwell,</hi> and taken the Oaths to be true and faithfull to the Governments under them, and feels no alteration in his Conſcience, but is ready to take the Oath of Abjuration of <hi>Charles Stewart,</hi> King Jeſus, or any other ſingle Perſon. Any and every ſuch perſon is declared and rightly qualifyed, to elect or be elected
+<pb n="12" facs="tcp:115515:7"/>Member of this preſent Parliament, and ſhall be admit<g ref="char:EOLhyphen"/>ted to ſit (being duly elected) without taking any fur<g ref="char:EOLhyphen"/>ther Oath at all.</p>
+            </div>
+            <div n="16" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XVI.</head>
+               <p>Ordered that a Bill be forthwith brought in to make <hi>Newgate Bridewell</hi> and <hi>Bedlam</hi> Corporations, that writs may be iſſued out to empower them to choſe their reſpective Repreſentatives to ſerve in this preſent Par<g ref="char:EOLhyphen"/>liament in as full manner as the Upper-bench and the <hi>Fleet</hi> have already done.</p>
+            </div>
+            <div n="17" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XVII.</head>
+               <p>Any Noble man or late Peere of the Realm that will renounce his Creation, or his Creator, and is otherwiſe. Qualifyed, ſhall be allowed capable (being firſt natura<g ref="char:EOLhyphen"/>lized by an Act of this Houſe) to be made a Knight Citizen, or Burgeſſe, and being duly elected and ſworn, ſhall be admitted to ſit among the Rabble of this Houſe, in as full manner as <hi>Phillip Herbert</hi>
+                  <abbr>Eſq</abbr> late Earl of <hi>Pembrocke,</hi> and <hi>William Cicill</hi> late Earl of <hi>Saliſbury</hi> at this preſent do. Provided that this ſhall not extend to any Peer of the late other houſe, that having a Trade to get his living honeſtly by, did nevertheleſſe betake him<g ref="char:EOLhyphen"/>ſelf to ſo lewd a courſe of life.</p>
+            </div>
+            <div n="18" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XVIII.</head>
+               <p>Whoſoever by fraud coven or otherwiſe hath poſſeſt himſelf of another mans eſtate or hath gotten into his hands any Office or Place of conſiderable Value, by ejecting indirectly the right owner thereof, and does not know how to maintain and juſtifie the ſame ſo well as by being choſen a Member of this Houſe, ſhall be approved of in ſo doing to have given good ſecurity for his fideli<g ref="char:EOLhyphen"/>ty to the preſent Government, and be capable to elect or be elected &amp;c.</p>
+            </div>
+            <div n="19" type="qualification">
+               <pb n="13" facs="tcp:115515:7"/>
+               <head>
+                  <hi>Qual.</hi> XIX.</head>
+               <p>Reſolved that the Curſes of the People ſhall hence<g ref="char:EOLhyphen"/>forth (that is to ſay from this preſent 14th of February 1659) be reputed and taken for their free voyces, and whoſoever hath moſt of the curſes of his Country ſhall be underſtood to have moſt of their free voyces, and be approved as moſt fitly qualifyed to ſit in this preſent Parliament. For ſuch will be very profitable Members to this Houſe when it ſhall be judged ſeaſonable to make the People pay for their curſing as well as they have done for their ſwearing.</p>
+            </div>
+            <div n="20" type="qualification">
+               <head>
+                  <hi>Qual.</hi> XX.</head>
+               <p>No Man ſhall be admitted to ſit in this Houſe as a Member thereof howſoever duly qualifyed and elected (except before excepted) untill he hath taken the fol<g ref="char:EOLhyphen"/>lowing Oath upon the Holy Evangeliſts.</p>
+               <div type="oath">
+                  <head>The Oath.</head>
+                  <p>
+                     <hi>IAB,</hi> Do ſwear in the preſence of Almighty God, and by the contents of this Book to be true and faith<g ref="char:EOLhyphen"/>full to this preſent Government as it is now uneſtabliſh<g ref="char:EOLhyphen"/>ed, and to the Keepers of the Liberties unſight unſeen, whether they are of inviſible and internall Nature as <hi>Fiends, Pugs, Elves, Furys, Imps</hi> or <hi>Goblins,</hi> or whether they are incarnate as <hi>Redcoates Lobſters, Corporals, Troopers, Dragoones.</hi> I do alſo ſwear that neither <hi>Charles Stewart</hi> nor any Perſon claim<g ref="char:EOLhyphen"/>ing from King <hi>James,</hi> ſhall ever be reſtored to the Crown of <hi>England Scotland</hi> or <hi>Ireland,</hi> either by Foraigne or domeſtick aſſistance, All diſpenſations, and
+<pb n="14" facs="tcp:115515:8"/>outgoing of Providence to the contrary notwithſtanding. I do likewiſe ſwear never to underſtand nor believe any thing that is againſt the Authority, intereſt, or ſence of this Houſe, and that I will never give my vote to deter<g ref="char:EOLhyphen"/>mine the ſitting thereof, during the naturall life of eve<g ref="char:EOLhyphen"/>ry reſpective Member thereof, now ſitting, nor conſent to the eſtabliſhment of any thing but <hi>Taxes, Exciſe, Free-quarter, Plunder, Confiſcations, Arbitrary Government, High Courts of Juſtice, Committees of Sale and Sequeſtration, a Goſpel-preaching Mi<g ref="char:EOLhyphen"/>niſtery, and Liberty of Conſcience.</hi> I do further ſwear that I will conſtanly believe in all the Priviledges of Parliament, as the Houſe believes, and that I will to the uttermoſt of my power maintain and defend the ſame, although I do not underſtand, nor ever will, what they are, or how far they extend. And leſt the preſent Mem<g ref="char:EOLhyphen"/>bers ſhould (when the Houſe is full) be ſecluded by their own Votes (by which the ſecluded Members are declared uncapable of ever ſitting in Parliament, or bearing any office of Truſt in this Common-wealth) I do ſwear, that the Secluded Members (properly ſo called) are not theſe who have been twice ſecluded, that is to ſay, the preſent Mem<g ref="char:EOLhyphen"/>bers now ſitting, but thoſe who have been ſecluded but once, that is, the major part of the long Parliament. As al<g ref="char:EOLhyphen"/>ſo that when it ſhall ſeem good unto this Parliament, to make every Member thereof an Officer or Commander of the Army, this Houſe will nevertheleſs be no Councell of Officers, but a very Parliament, and the ſword ſtill in the hand of the civil Magiſtrate. I do alſo ſwear, that what<g ref="char:EOLhyphen"/>ſoever time ſhall hereafter produce (6 Governments off) for the advantage of the preſent Parliament, or whatſoe<g ref="char:EOLhyphen"/>ver they ſhall at any time do, ſay, or ſwear, in order thereunto, how contrary ſoever to any thing by them for<g ref="char:EOLhyphen"/>merly done, ſaid, or ſworn, is, and will be alwayes the good old Cauſe, and the work of the Lord. That the preſent
+<pb n="15" facs="tcp:115515:8"/>diſtractions are for his Glory and the peace of the Go<g ref="char:EOLhyphen"/>vernment, and that the ſlavery of the Engliſh Nation is for the liberty of the People. That notwithſtanding they are hard to change their Maſters as Chriſtian Bond<g ref="char:EOLhyphen"/>ſlaves as in Turky, and are conveied from Government to Government, as Rogues are from Conſtable to Con<g ref="char:EOLhyphen"/>ſtable, ſtill to be whipt and puniſhed, all is for their Free<g ref="char:EOLhyphen"/>dom and Protection in their antient Lawes, Rights, and Immunities. Laſtly, I do ſwear never to divulge the ſe<g ref="char:EOLhyphen"/>crets of this Houſe, nor diſcover the hidden Myſteries thereof. The Admirable Art of manageing Factions with confederate conteſts in ordinary matters, and ſta<g ref="char:EOLhyphen"/>ving, and tayling with the Rabble of Parties in buſi<g ref="char:EOLhyphen"/>neſſes of Profit and advantage to carry on private de<g ref="char:EOLhyphen"/>ſignes under the mask of publique Good. The ſubtle ways of packing Committees and progging buſineſſes without dores. The Ingenious artifices of double-dealing by ſel<g ref="char:EOLhyphen"/>ling with one hand and buying with the other, whereby ſeverall Members have afforded themſelves good bar<g ref="char:EOLhyphen"/>gains of Delinquents eſtates in ſuborn'd Purchaſers names. The moſt excellent invention of adviſing votes, and finding out the true value of a leading or ſeconding voyce, third, fourth, or fifth, how many a laſting voyce goes for, like the laſt Truck at Picquet, how to balance all theſe upon accompt ſo that every ſharer may have his due, with infinite other curious and occult Sciences with the preſent-Members out of their long practiſe and expe<g ref="char:EOLhyphen"/>rience have found out, to the glory of God, and good of the Nation.</p>
+                  <closer>So help me God.</closer>
+               </div>
+            </div>
+            <div n="21" type="qualification">
+               <pb n="16" facs="tcp:115515:9"/>
+               <head>
+                  <hi>Qual.</hi> XXI.</head>
+               <p>And leſt the new elected Members ſhould (notwith<g ref="char:EOLhyphen"/>ſtanding all theſe Oaths and Qualifications) oppoſe, and being the greater number, overvote the preſent Mem<g ref="char:EOLhyphen"/>bers, like a new piece of cloath upon an old garment in<g ref="char:EOLhyphen"/>ſtead of patching teare it wider. It is reſolved that but 8 writs for new elections be iſſued forth at one time and no more untill the new returned Members have been intruſted in the practiſe of this Houſe and being engaged by profitable employments, have given proof of their conformity thereunto, or in caſe of refuſall have been elected.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:115515:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
